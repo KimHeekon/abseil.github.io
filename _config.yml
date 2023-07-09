@@ -21,10 +21,10 @@ description: The Abseil.Io website
 
 # The base hostname & protocol for your site, e.g. http://example.com
 # This site.url path is required by the RSS feed.xml
-url: "https://abseil.io"
+url: "https://kimheekon.github.io/abseil.github.io"
 
 # the subpath of your site. The main Abseil website is not on a subpath
-baseurl: ""
+baseurl: "https://kimheekon.github.io/abseil.github.io"
 
 # Not currently used
 twitter_username: abseil
