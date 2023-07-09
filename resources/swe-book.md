@@ -22,7 +22,7 @@ from O'Reilly if you wish.
 <center>
 <div style="width:50%">
 <a href="/resources/swe-book/html/toc.html" target="_blank">
-<img src="/img/swe_at_google.2.cover.jpg" alt="Software Engineering at Google" />
+<img src="{{ site.baseurl }}/img/swe_at_google.2.cover.jpg" alt="Software Engineering at Google" />
 </a>
 </div>
 &nbsp;

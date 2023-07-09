@@ -36,7 +36,7 @@ name for the time that we are describing. A time zone defines the
 relationship between an absolute time and the civil time to which it
 corresponds: 
 
-<img src="/docs/cpp/guides/images/time-concepts.png" style="margin:5px;"
+<img src="{{ site.baseurl }}/docs/cpp/guides/images/time-concepts.png" style="margin:5px;"
   alt="Absolute and Civil Time Relationships"/>
   
 The Abseil time library provides six new classes for representing civil times:
